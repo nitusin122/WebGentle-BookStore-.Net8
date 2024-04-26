@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Webgentle.BookStore/bin/Debug/net8.0
+/Webgentle.BookStore/.vs/Webgentle.BookStore/FileContentIndex
+/Webgentle.BookStore/.vs/Webgentle.BookStore/v17
+/Webgentle.BookStore/obj
+/Webgentle.BookStore/.vs/Webgentle.BookStore/config
+/Webgentle.BookStore/.vs/Webgentle.BookStore/DesignTimeBuild
